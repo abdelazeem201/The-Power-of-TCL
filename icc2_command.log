@@ -1,0 +1,9 @@
+#@ # 
+#@ # Running icc2_shell Version M-2016.12-SP5-1 for linux64 -- Sep 11, 2017
+#@ # Date:   Tue Nov 14 20:43:47 2017
+#@ # Run by: hcl@dharti
+#@ 
+
+gui_set_pref_value -category {SelectByNamePalette} -key {ObjectType} -value {Cells}
+gui_show_man_page create_blackbox
+exit

@@ -1,0 +1,10 @@
+
+Loading user preference file /home/hcl/.synopsys_icc2_gui/preferences.tcl
+Warning: Cannot use command line editor for terminal type 'xterm'. (CLE-100)
+icc2_shell> gui_show_man_page create_blackbox
+icc2_shell> exit
+Maximum memory usage for this session: 127.31 MB
+CPU usage for this session:      8 seconds (  0.00 hours)
+Elapsed time for this session:    213 seconds (  0.06 hours)
+Thank you for using IC Compiler II.
+

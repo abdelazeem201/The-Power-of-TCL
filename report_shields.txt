@@ -1,0 +1,12 @@
+
+**********************************
+Report : Zroute Shielding Ratio
+       : -nets all shielded
+       : -per_layer false
+**********************************
+
+
+No nets with associated shielding were found
+
+**********************************
+

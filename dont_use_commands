@@ -1,0 +1,11 @@
+     1  start_gui
+     2  open_block /scratch/HCL/Bharath/Shakthi/vipul_fpu_apr_run/ADF_ln_ttt/run_directory/mkfpu.nlib:mkfpu/place.design
+     3  link_block
+     4  set_attribute -objects [get_lib_cells b1_nn/b15*] -dont_use true
+     5  set_attribute -objects [get_lib_cells b1_nn/b15*] -name dont_use -value true
+     6  set_attribute -objects [get_lib_cells b15_nn/b15*] -name dont_use -value true
+     7  get_lib_cells */*n1n*
+     8  set_attribute [get_lib_cells */*n1n*] dont_use true
+     9  get_attr [get_lib_cells b15_nn/b15aboi22an1n02x3] dont_use
+    10  history
+    11  history > dont_use_commands
