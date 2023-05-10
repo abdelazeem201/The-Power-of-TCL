@@ -1,4 +1,4 @@
-edirect clock_sink.rpt {
+redirect clock_sink.rpt {
     foreach_in_collection ck [all_clocks] {
         puts "Clock_Name No_of_register_sinks Sink_list"
         puts "#####################################"
